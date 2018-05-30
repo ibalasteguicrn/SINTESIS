@@ -1,0 +1,28 @@
+header{
+    background: orangered;
+    font-size: 2rem;
+    color: #fff;
+}
+aside{
+    background: indigo;
+    color: white;
+}
+article{
+    background: forestgreen;
+    color: white;
+}
+.micolor{
+    background: blue;
+    color: white;
+}
+.miancho{
+    width: 100%;
+    height: 500px !important;
+}
+.mih2{
+    position: absolute;
+    color: red;
+    width: 100%;
+    top: 20%;
+    left: 20%;
+}
