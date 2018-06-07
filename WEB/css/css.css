@@ -64,8 +64,13 @@ body{
     text-align: justify;
 }
 .imgresp{
-width: 100%;
+width: 75%;
 min-width: 300px;
+
+}
+.imgresp{
+width: 75%;
+min-width: 200px;
 
 }
 .tamaño{
